@@ -1,0 +1,10 @@
+diff a/note1.txt b/note1.txt	(rejected hunks)
+@@ -1,4 +1,5 @@
+ Change1
+ Change2
+ Change3
+-Change4
+\ No newline at end of file
++Change4
++Change5
+\ No newline at end of file
